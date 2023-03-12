@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+
+	<Components>
+	
+		<component>
+			<ApplicationName>notepad++</ApplicationName>
+			<UriSource>C:\\Program Files (x86)\\Notepad++\\updater\\updater.ico</UriSource>
+			<PathToApp>C:\\Program Files (x86)\\Notepad++\\noepad++.exe</PathToApp>
+		</component>
+		
+		<component>
+			<ApplicationName>chrome</ApplicationName>
+			<UriSource>C:\Program Files\Google\Chrome\Application\109.0.5414.120\VisualElements\SmallLogo.png</UriSource>
+			<PathToApp>C:\Program Files\Google\Chrome\Application\chrome.exe</PathToApp>
+		</component>
+		
+		<component>
+			<ApplicationName>AppThree</ApplicationName>
+			<UriSource>C:\\Program Files (x86)\\Notepad++\\updater\\updater.ico</UriSource>
+			<PathToApp>C:\\Program Files (x86)\\Notepad++\\notepad++.exe</PathToApp>
+		</component>
+		
+	</Components>
+	
+</configuration>
